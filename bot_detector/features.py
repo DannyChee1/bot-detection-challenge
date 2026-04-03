@@ -70,6 +70,30 @@ _HEX_COMMON_WORDS = frozenset([
     'beef', 'bead', 'bead', 'aced', 'dace', 'fad', 'ace', 'add',
 ])
 
+# "Confused on the platform" bot persona: posts that discuss Twitter/social-media mechanics
+# AS THE TOPIC rather than using the platform to discuss sports/music/news.
+# @SirReginald73 / @SirOldEnglish / @grandpapa_uk all fit this pattern.
+_PLATFORM_META_RE = re.compile(
+    r"\b(tweet(s|ing|ed)?|retweet(s|ed|ing)?|twitter|trending|timeline|"
+    r"hashtags?|plateforme|notification[s]?|follower[s]?|abonn[eé][s]?|"
+    r"abonnement[s]?|tendances?|algorithm[e]?)\b",
+    re.IGNORECASE,
+)
+
+# Engagement-farming bots paste call-to-action copy verbatim: "like and retweet to win",
+# "DOIT ME SUIVRE" ("MUST FOLLOW ME"), "aimez et retweetez pour l'avoir".
+_ENGAGEMENT_FARM_RE = re.compile(
+    r"(like and retweet|retweet (and|to) (win|get|follow)|follow ?(for|4) ?follow|"
+    r"\bf4f\b|aimez.{0,6}retweetez|retweetez pour|doit me suivre|must follow|"
+    r"abonne-?toi|s.abonner pour|rt (and|pour) follow|rt pour)",
+    re.IGNORECASE,
+)
+
+# Garbled character substitution: LLM output where characters were replaced by numbers/hex,
+# e.g. "c74r" (cœur), "1ides" (idées), "7ao". Pattern: letter(s) + 2+ digits + letter(s).
+# This is distinct from common tokens like "10am", "4th", "NBA2K" (only 1 embedded digit).
+_GARBLED_CHAR_RE = re.compile(r"\b[a-zA-ZÀ-ÿ]+[0-9]{2,}[a-zA-ZÀ-ÿ]+\b")
+
 # LLM prompt-artifact phrases: an LLM asked to "write tweets" often produces a meta-intro
 # before the tweets themselves, revealing it answered the prompt rather than composing naturally.
 _META_TWEET_RE = re.compile(
@@ -143,6 +167,18 @@ def _gaps_seconds(sorted_posts: list) -> list:
         return []
     times = [_parse_time(p["created_at"]) for p in sorted_posts]
     return [(times[i + 1] - times[i]).total_seconds() for i in range(len(times) - 1)]
+
+
+def _posting_minute_regularity(sorted_posts: list) -> float:
+    """Fraction of posts sharing the most common posting minute.
+    Human scheduling tools (Buffer/Hootsuite) post at a fixed minute every hour.
+    LLM bots have no schedule → top minute is typically <0.15.
+    """
+    if len(sorted_posts) < 5:
+        return 0.0
+    minutes = [_parse_time(p["created_at"]).minute for p in sorted_posts]
+    top_count = Counter(minutes).most_common(1)[0][1]
+    return top_count / len(sorted_posts)
 
 
 def _hashtag_count(text: str) -> int:
@@ -330,6 +366,25 @@ def extract_features(user: dict, posts: list) -> dict:
     # Name and username share no words = possibly fabricated persona
     name_username_divergence = _name_username_divergence(name, username)
 
+    # ── Red flags: Generation artifacts (new) ───────────────────────────────
+    # Posts discussing the posting platform as the topic ("How do I find my tweets?")
+    platform_meta_ratio = statistics.mean(
+        1.0 if _PLATFORM_META_RE.search(t) else 0.0 for t in texts
+    )
+
+    # Template structure: \n\n inside a post = formatted template output (betting picks, lists)
+    double_newline_ratio = statistics.mean(1.0 if "\n\n" in t else 0.0 for t in texts)
+
+    # Engagement farming: copy-pasted call-to-action text
+    engagement_farm_ratio = statistics.mean(
+        1.0 if _ENGAGEMENT_FARM_RE.search(t) else 0.0 for t in texts
+    )
+
+    # Character substitution artifacts: tokens like "c74r", "1ides" where chars became numbers
+    garbled_char_ratio = statistics.mean(
+        1.0 if _GARBLED_CHAR_RE.search(t) else 0.0 for t in texts
+    )
+
     # ── Red flags: Template generation artifacts ────────────────────────────
     # Posts entirely wrapped in quotes/brackets = JSON list not properly parsed
     quoted_post_ratio = statistics.mean(1.0 if _is_json_wrapped(t) else 0.0 for t in texts)
@@ -363,6 +418,9 @@ def extract_features(user: dict, posts: list) -> dict:
 
     # Register variance: humans are inconsistent in formality across posts
     register_variance = statistics.stdev(informality_scores) if len(informality_scores) > 1 else 0.0
+
+    # Posting-minute regularity: human schedulers post at a fixed minute every hour
+    posting_minute_regularity = _posting_minute_regularity(sorted_posts)
 
     return {
         # ── Original features ────────────────────────────
@@ -402,6 +460,11 @@ def extract_features(user: dict, posts: list) -> dict:
         "post_sim_mean": post_sim_mean,
         "post_sim_std": post_sim_std,
         "name_username_divergence": name_username_divergence,
+        # ── Red flags: Generation artifacts ──────────────
+        "platform_meta_ratio": platform_meta_ratio,
+        "double_newline_ratio": double_newline_ratio,
+        "engagement_farm_ratio": engagement_farm_ratio,
+        "garbled_char_ratio": garbled_char_ratio,
         # ── Red flags: Template artifacts ────────────────
         "quoted_post_ratio": quoted_post_ratio,
         "hex_artifact_ratio": hex_artifact_ratio,
@@ -413,6 +476,7 @@ def extract_features(user: dict, posts: list) -> dict:
         "informal_ratio": informal_ratio,
         "uppercase_exclamation_ratio": uppercase_exclamation_ratio,
         "register_variance": register_variance,
+        "posting_minute_regularity": posting_minute_regularity,
     }
 
 
@@ -433,12 +497,16 @@ def _empty_features(user: dict) -> dict:
         # green flags
         "first_person_ratio", "reply_mention_ratio", "profile_post_overlap",
         "post_sim_mean", "post_sim_std", "name_username_divergence",
+        # red flags: generation artifacts
+        "platform_meta_ratio", "double_newline_ratio",
+        "engagement_farm_ratio", "garbled_char_ratio",
         # red flags: template artifacts
         "quoted_post_ratio", "hex_artifact_ratio",
         # red flags: LLM meta-artifacts
         "meta_tweet_score", "repeated_opening_ratio",
         # green flags: human authenticity
         "self_bot_description", "informal_ratio", "uppercase_exclamation_ratio", "register_variance",
+        "posting_minute_regularity",
     ]}
 
 

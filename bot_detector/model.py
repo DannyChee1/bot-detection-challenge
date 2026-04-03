@@ -152,9 +152,10 @@ class BotDetector:
         )
         probs = self.clf.predict_proba(self.scaler.transform(X))[:, 1]
 
+        users_map = {u["id"]: u for u in users}
         scores = {}
         for uid, prob in zip(user_ids, probs):
-            rule_score = apply_hard_rules(uid, user_posts.get(uid, []))
+            rule_score = apply_hard_rules(uid, user_posts.get(uid, []), users_map.get(uid))
             scores[uid] = rule_score if rule_score is not None else float(prob)
 
         # Chain-ban: boost all cluster members when any member is flagged

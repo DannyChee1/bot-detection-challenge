@@ -31,7 +31,7 @@ from bot_detector.llm_scorer import score_accounts, apply_llm_scores
 BASE = os.path.dirname(os.path.abspath(__file__))
 
 # Default thresholds from leave-one-out CV on practice datasets (v3 features)
-DEFAULT_THRESHOLDS = {"en": 0.44, "fr": 0.43}
+DEFAULT_THRESHOLDS = {"en": 0.50, "fr": 0.43}
 
 EN_TRAIN = [(1, "en"), (3, "en"), (5, "en"), (30, "en")]
 FR_TRAIN = [(2, "fr"), (4, "fr"), (6, "fr"), (31, "fr")]
