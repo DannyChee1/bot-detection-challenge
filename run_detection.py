@@ -24,16 +24,17 @@ import json
 import os
 import sys
 
-from bot_detector.model import BotDetector, load_dataset, load_bots
+from bot_detector.model import BotDetector, load_dataset, load_bots, _build_user_posts
 from bot_detector.evaluate import sweep_threshold
+from bot_detector.llm_scorer import score_accounts, apply_llm_scores
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
-# Default thresholds from leave-one-out CV on practice datasets
-DEFAULT_THRESHOLDS = {"en": 0.40, "fr": 0.41}
+# Default thresholds from leave-one-out CV on practice datasets (v3 features)
+DEFAULT_THRESHOLDS = {"en": 0.44, "fr": 0.43}
 
-EN_TRAIN = [(1, "en"), (3, "en"), (5, "en")]
-FR_TRAIN = [(2, "fr"), (4, "fr"), (6, "fr")]
+EN_TRAIN = [(1, "en"), (3, "en"), (5, "en"), (30, "en")]
+FR_TRAIN = [(2, "fr"), (4, "fr"), (6, "fr"), (31, "fr")]
 
 
 def dataset_paths(idx: int):
@@ -57,6 +58,12 @@ def main():
         choices=["en", "fr"],
         default=None,
         help="Override language detection",
+    )
+    parser.add_argument(
+        "--llm",
+        action="store_true",
+        default=False,
+        help="Run GPT-4o on borderline accounts (requires OPENAI_API_KEY)",
     )
     args = parser.parse_args()
 
@@ -89,8 +96,8 @@ def main():
 
     print(f"Training on {len(train_data)} practice dataset(s)...")
 
-    # Train
-    detector = BotDetector()
+    # Train — XGBoost for EN (better boundary precision), RF for FR (fewer FPs)
+    detector = BotDetector(use_xgb=(lang == "en"))
     detector.fit(train_data)
 
     # Threshold
@@ -98,21 +105,36 @@ def main():
     detector.threshold = threshold
     print(f"Using threshold: {threshold}")
 
-    # Predict
-    predicted_bots = detector.predict(eval_users, eval_posts)
+    # Predict (RF + chain-ban post-processing already applied inside predict_scores)
     scores = detector.predict_scores(eval_users, eval_posts)
 
+    # Optional LLM layer for borderline accounts
+    if args.llm:
+        user_posts_map = _build_user_posts(eval_posts)
+        users_map = {u["id"]: u for u in eval_users}
+        accounts = [
+            {"user": users_map[uid], "posts": user_posts_map.get(uid, [])}
+            for uid in scores
+        ]
+        llm_results = score_accounts(accounts, scores, threshold=threshold)
+        if llm_results:
+            scores = apply_llm_scores(scores, llm_results)
+            print(f"  LLM adjusted {sum(1 for r in llm_results.values() if r['verdict'] != 'ABSTAIN')} accounts")
+
+    predicted_bots = {uid for uid, s in scores.items() if s >= threshold}
     print(f"\nDetected {len(predicted_bots)} bot accounts out of {len(eval_users)} users")
 
-    # Show borderline cases (between threshold-0.1 and threshold+0.05) for manual review
+    # Show borderline cases just below threshold for awareness
     borderline = {
         uid: s for uid, s in scores.items()
         if (threshold - 0.10) <= s < threshold
     }
     if borderline:
+        users_map = {u["id"]: u for u in eval_users}
         print(f"\nBorderline accounts ({len(borderline)} near threshold, NOT flagged):")
         for uid, s in sorted(borderline.items(), key=lambda x: -x[1])[:10]:
-            print(f"  {uid}  score={s:.3f}")
+            uname = users_map.get(uid, {}).get("username", uid[:8])
+            print(f"  @{uname:<20} score={s:.3f}")
 
     # Write output
     out_filename = f"{args.team_name}.detections.{lang}.txt"

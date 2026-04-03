@@ -1,0 +1,157 @@
+======================================================================
+GPT-4o ANALYSIS REPORT — FN and FP Cases
+======================================================================
+
+FN cases (missed bots): 23 total, GPT caught 23 (100%)
+FP cases (wrongly flagged): 8 total, GPT agreed they're human: 6 (75%)
+
+──────────────────────────────────────────────────────────────────────
+FALSE NEGATIVES — Bots we missed
+──────────────────────────────────────────────────────────────────────
+
+@Blue_Mtns_Lover  [EN ds1]  RF=0.349  LLM=YES (0.95)
+  Name: Sky Walker596  |  Desc: Nature enthusiast and chronic music lover. Hate Mondays but go on adventures eve
+  Reason: high frequency, generic content
+
+@word_slinger101  [EN ds1]  RF=0.280  LLM=YES (0.95)
+  Name: Scribe315 4dd  |  Desc: Writer of webs and tales untold, prose and poetry interfold. Welcome to my world
+  Reason: high frequency, varied topics
+
+@pixelgeek12  [EN ds1]  RF=0.308  LLM=YES (0.95)
+  Name: Nate  |  Desc: Living in the world of pixels and code. Web designer extraordinaire!
+  Reason: inconsistent timing, varied topics, promotional content
+
+@darksky466  [EN ds3]  RF=0.361  LLM=YES (0.95)
+  Name: Mark  |  Desc: Skygazing enthusiast and professional coder
+  Reason: high frequency, inconsistent content
+
+@georgeVen90  [EN ds5]  RF=0.380  LLM=YES (0.95)
+  Name: George  |  Desc: Hiking our way to health and happiness
+  Reason: high posting frequency, varied content
+
+@Tiff-Tiff  [FR ds2]  RF=0.239  LLM=YES (0.95)
+  Name: Tiff-Tiff  |  Desc: #NUCvolleyball 🧡🖤 | #HCAjoie 💛🖤 | #FCBayern ❤️🤍 |  #NJDevils | #ScuderiaFerrari 
+  Reason: high frequency, diverse topics, no interaction
+
+@JeanDupont31  [FR ds4]  RF=0.325  LLM=YES (0.95)
+  Name: Jean Dupont  |  Desc: Homme de 32 ans, passionné par la technologie et les jeux vidéo. Toujours à la r
+  Reason: high tweet frequency, diverse topics, repetitive patterns
+
+@lilie_paris  [FR ds4]  RF=0.312  LLM=YES (0.95)
+  Name: lilie 🌸  |  Desc: adolescente passionnée par la mode et le cinéma 🎥✨ | toujours à la recherche de 
+  Reason: high posting frequency, engagement bait
+
+@grandpapa_uk  [FR ds4]  RF=0.242  LLM=YES (0.95)
+  Name: Édouard Smith  |  Desc: Amateur de thé et de bons livres. Trop vieux pour les bêtises, mais assez jeune 
+  Reason: repetitive timestamps, uniform confusion
+
+@Marc30  [FR ds6]  RF=0.260  LLM=YES (0.95)
+  Name: Mark  |  Desc: In The Name of Jesus 🙏🏾
+I love this game 🏀
+RIP Dad❤️
+Cameroun 🇨🇲 ma Terre 🙌🏾
+Psa
+  Reason: repetitive content, minor variations
+
+@Kim7  [FR ds6]  RF=0.339  LLM=YES (0.95)
+  Name: Kimberly  |  Desc: Graphic Textile/Streetwear Designer - CEO of Home Clothing Unltd Gear/Per-aa. Wi
+  Reason: high frequency, repetitive content
+
+@SirOldEnglish  [FR ds6]  RF=0.259  LLM=YES (0.95)
+  Name: Monsieur William  |  Desc: Un vieux monsieur britannique dans la soixantaine, passionné de thé et de littér
+  Reason: simultaneous posts, stereotypical persona
+
+@JeanDupont30  [FR ds6]  RF=0.438  LLM=YES (0.95)
+  Name: Jean Dupont  |  Desc: Passionné de cinéma et de musique, amateur de randonnée 🚶‍♂️🎶
+  Reason: high post frequency, diverse topics
+
+@Gracie_M56789  [EN ds1]  RF=0.267  LLM=YES (0.90)
+  Name: 5a5499476  |  Desc: (empty)
+  Reason: randomized names, generic content
+
+@topazfire22  [EN ds3]  RF=0.154  LLM=YES (0.85)
+  Name: Topaz  |  Desc: Finding gems in everyday life
+  Reason: high post frequency, generic content
+
+@@mention  [EN ds3]  RF=0.369  LLM=YES (0.85)
+  Name: CarterNixon  |  Desc: retweets are always hundred percent endorsements. I don't have time to joke arou
+  Reason: repetitive structure, high frequency, lack of engagement
+
+@karlthecat33  [EN ds3]  RF=0.251  LLM=YES (0.85)
+  Name: Karl  |  Desc: Gourmet cheese enthusiast and professional nap taker
+  Reason: high post frequency, varied content
+
+@rocksolidGabe  [EN ds5]  RF=0.399  LLM=YES (0.85)
+  Name: Gabe  |  Desc: Passionate about rock climbing and travel. Life's a climb but the view is great!
+  Reason: diverse topics, frequent posts, no interaction
+
+@soccerheart7  [EN ds5]  RF=0.258  LLM=YES (0.85)
+  Name: Emma Vasquez  |  Desc: kicking goals ⚽ | embracing life
+  Reason: high frequency, repetitive themes
+
+@Pat  [FR ds2]  RF=0.233  LLM=YES (0.85)
+  Name: Patricia  |  Desc: 🛰🇨🇩🇦🇴🇫🇷
+Le Héros du Siècle, Le Dernier Dinosaure, la Heat, Nucléaire, Météorite,
+  Reason: high frequency, diverse topics
+
+@jeanpierre271  [FR ds6]  RF=0.431  LLM=YES (0.85)
+  Name: Jean  |  Desc: Pierre
+  Reason: high posting frequency, generic content
+
+@louisCDX  [FR ds6]  RF=0.228  LLM=YES (0.85)
+  Name: Louis  |  Desc: Hyperactif de nature, ne peut vivre sans café ! Travaille dans le marketing.
+  Reason: high frequency, varied topics
+
+@pixelgeek12  [EN ds30]  RF=0.525  LLM=YES (0.85)
+  Name: Nate  |  Desc: Living in the world of pixels and code. Web designer extraordinaire!
+  Reason: high post frequency, varied topics
+
+──────────────────────────────────────────────────────────────────────
+FALSE POSITIVES — Humans we wrongly flagged
+──────────────────────────────────────────────────────────────────────
+
+@Gabwear  [FR ds2]  RF=0.430  LLM=NO (0.95)
+  Name: 🔻⭕️🔺1÷1=2🇨🇲🌍  |  Desc: Designer Graphique textile/streetwear Best Next designer FCC2015/Winner design d
+  Reason: Diverse content and personal engagement
+
+@JaguarDrake  [FR ds2]  RF=0.540  LLM=NO (0.95)
+  Name: R D X 🇨🇬  |  Desc: Bat toi et si tu tombe relève toi
+  Reason: diverse content and personal tone
+
+@rise_quotes  [EN ds5]  RF=0.699  LLM=YES (0.90)
+  Name: Rise Kujikawa  |  Desc: rise quote bot
+quotes taken from @mention, @mention, and @mention*
+  Reason: Regular posting, self-identified bot
+
+@no_context_poll  [EN ds5]  RF=0.667  LLM=NO (0.90)
+  Name: Pollar Bear  |  Desc: Your daily dose of random polls!
+Sometimes not random.
+I live in a forest.
+Yes, 
+  Reason: diverse content and personal touch
+
+@ArahWynell  [EN ds5]  RF=0.534  LLM=YES (0.85)
+  Name: Free Submission / Real Music Promo 🏆  |  Desc: 👑FREE MUSIC PROMO
+💎No costs - Try for Free ! 
+🎯Instagram,  Spotify, Youtube
+All 
+  Reason: Repetitive promotional content, lacks personal engagement
+
+@sapalocha98  [EN ds5]  RF=0.601  LLM=NO (0.80)
+  Name: __anjjj98  |  Desc: 🌷🐰
+@mention
+ #srchafreen #GIRLFREEN 
+Jennie & Freen stan❤️
+HER GIRLFREEN🥰❤️
+  Reason: humor and personal engagement suggest human
+
+@MyBetBoost  [FR ds4]  RF=0.425  LLM=NO (0.70)
+  Name: Bet Boost  |  Desc: 🚀 Boostez vos paris avec BetBoost !
+📈 Partage en temps réel des cotes boostées p
+  Reason: structured posts typical for betting niche
+
+@MusicMaven123  [EN ds5]  RF=0.523  LLM=NO (0.60)
+  Name: Career Promotion Squad 🎼  |  Desc: 🎵Free Music Submission
+🎸Major Label Marketing Deals
+🎯Services: Youtube, Instagra
+  Reason: promotional human account

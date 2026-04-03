@@ -1,0 +1,1866 @@
+[
+  {
+    "type": "FP",
+    "lang": "en",
+    "dataset": 5,
+    "bot_score": 0.6989,
+    "threshold": 0.45,
+    "user": {
+      "id": "b8e3dd3a-f0ae-49d4-8904-91791d4488d0",
+      "username": "rise_quotes",
+      "name": "Rise Kujikawa",
+      "description": "rise quote bot\nquotes taken from @mention, @mention, and @mention*",
+      "location": "Inaba, Japan",
+      "tweet_count": 98,
+      "z_score": 2.6502
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-27T17:28:19.000Z",
+        "text": "And, during all that, I want to have a serious relationship with the man I love, and get married on a tropical island!"
+      },
+      {
+        "created_at": "2024-03-27T17:43:18.000Z",
+        "text": "Hey, that was a pretty good hit!"
+      },
+      {
+        "created_at": "2024-03-27T17:58:18.000Z",
+        "text": "I have to protect the smiles of the people who are precious to me."
+      },
+      {
+        "created_at": "2024-03-27T18:13:19.000Z",
+        "text": "It's true what they say... It takes all types to make a world."
+      },
+      {
+        "created_at": "2024-03-27T18:28:19.000Z",
+        "text": "Looking at these gym clothes makes me think of some of the old variety shows I watched when I was younger."
+      },
+      {
+        "created_at": "2024-03-27T18:43:22.000Z",
+        "text": "Geez, Senpai, you're a natural-born playboy sometimes."
+      },
+      {
+        "created_at": "2024-03-27T18:58:22.000Z",
+        "text": "The person everyone likes, the one they say “hi” to on the street? That’s not the real me."
+      },
+      {
+        "created_at": "2024-03-27T19:28:21.000Z",
+        "text": "Noooo probleeeem! It'll be over in a flash."
+      },
+      {
+        "created_at": "2024-03-27T19:43:21.000Z",
+        "text": "Four enemies left! Don't give up!"
+      },
+      {
+        "created_at": "2024-03-27T19:58:21.000Z",
+        "text": "It's weak to light! Beat it, and move on!"
+      },
+      {
+        "created_at": "2024-03-27T20:13:21.000Z",
+        "text": "Amazing, Yukiko-senpai! Two defeated so far!"
+      },
+      {
+        "created_at": "2024-03-27T20:28:22.000Z",
+        "text": "Does this mean the game's starting!? Urgh, this kinda pisses me off! Let's go, Senpai!"
+      },
+      {
+        "created_at": "2024-03-27T20:43:22.000Z",
+        "text": "We don't have to rush. But I want to find him quick. Let's give it everything we got, Senpai!"
+      },
+      {
+        "created_at": "2024-03-27T21:13:21.000Z",
+        "text": "Teddieeee! Heeeey!"
+      },
+      {
+        "created_at": "2024-03-27T21:28:21.000Z",
+        "text": "Oh, yeah. Want some tofu to take home?"
+      },
+      {
+        "created_at": "2024-03-27T21:43:22.000Z",
+        "text": "When I got back to school after my debut, no one bullied me... I was happy at first, with people I didn't even know talking to me..."
+      },
+      {
+        "created_at": "2024-03-27T21:58:22.000Z",
+        "text": "What…? I dealt all that exquisite pain and you’re still not satisfied? What a finicky guest..."
+      },
+      {
+        "created_at": "2024-03-27T22:13:22.000Z",
+        "text": "Weird...? Like stalkers? Are you guys fans of mine?"
+      },
+      {
+        "created_at": "2024-03-27T22:28:24.000Z",
+        "text": "A game...? Aren't you the one who thinks of this as a game?"
+      },
+      {
+        "created_at": "2024-03-27T22:43:27.000Z",
+        "text": "*chuckle* I almost got killed by those monsters. Compared to that, exams are nothing."
+      },
+      {
+        "created_at": "2024-03-27T22:58:24.000Z",
+        "text": "*chuckle* I'm glad you're the first people I got to know here."
+      },
+      {
+        "created_at": "2024-03-27T23:13:22.000Z",
+        "text": "Why don’t I start by asking what kind of girl you like?"
+      },
+      {
+        "created_at": "2024-03-27T23:28:21.000Z",
+        "text": "Grrr... If only I could detect people in the real world..."
+      },
+      {
+        "created_at": "2024-03-27T23:43:21.000Z",
+        "text": "Ooooh, Senpai! That was perfect!"
+      },
+      {
+        "created_at": "2024-03-27T23:58:22.000Z",
+        "text": "I'd be scared if you could. Some people are just like that, though..."
+      },
+      {
+        "created_at": "2024-03-28T00:13:21.000Z",
+        "text": "Enemy defeated! You're off to a good start!"
+      },
+      {
+        "created_at": "2024-03-28T00:28:21.000Z",
+        "text": "Rise and Kanami! Teaming up would be kind of unfair, huh?"
+      },
+      {
+        "created_at": "2024-03-28T00:43:21.000Z",
+        "text": "Senpai... I'm not a nuisance to you, am I?"
+      },
+      {
+        "created_at": "2024-03-28T01:13:27.000Z",
+        "text": "Oh, Senpai. If you’re free, let’s go play!"
+      },
+      {
+        "created_at": "2024-03-28T01:28:22.000Z",
+        "text": "\"Risette\"? Who the hell is she? There's no such person in this world! I'm no one but myself! C'mon, look at me!"
+      },
+      {
+        "created_at": "2024-03-28T01:43:24.000Z",
+        "text": "Go! Beat 'em up!"
+      },
+      {
+        "created_at": "2024-03-28T01:58:25.000Z",
+        "text": "Do you go to Yasogami, like Senpai? I'll be starting school there tomorrow, so I hope we get along too."
+      },
+      {
+        "created_at": "2024-03-28T02:13:25.000Z",
+        "text": "Senpai, are you… happy right now? Do you like being with me… like this, the way we are now?"
+      },
+      {
+        "created_at": "2024-03-28T02:28:22.000Z",
+        "text": "It's weak to ice! This'll be easy!"
+      },
+      {
+        "created_at": "2024-03-28T02:43:22.000Z",
+        "text": "I never thought I'd be out in public like this."
+      },
+      {
+        "created_at": "2024-03-28T02:58:22.000Z",
+        "text": "Oh, uh, I just remembered. There was a question on the exam that I didn't get."
+      },
+      {
+        "created_at": "2024-03-28T03:13:23.000Z",
+        "text": "You'd be perfect as a butler. You're very dignified, and you hardly ever talk. Seriously, it totally suits you!"
+      },
+      {
+        "created_at": "2024-03-28T03:28:24.000Z",
+        "text": "This spring, one young girl levels up to become a high school idol… Yayyyy!"
+      },
+      {
+        "created_at": "2024-03-28T03:43:22.000Z",
+        "text": "I did tons of shoots there. It's just beyond the Moonlight Bridge, yeah?"
+      },
+      {
+        "created_at": "2024-03-28T03:58:22.000Z",
+        "text": "Don't let me down, Senpai! Show me your skills!"
+      },
+      {
+        "created_at": "2024-03-28T04:13:26.000Z",
+        "text": "Well, if a thing is worth doing, it’s worth doing all the way! I’m gonna bare it all for you!"
+      },
+      {
+        "created_at": "2024-03-28T04:28:26.000Z",
+        "text": "If you ever have some time to kill, think of me, okay?"
+      },
+      {
+        "created_at": "2024-03-28T04:43:28.000Z",
+        "text": "...Anyway, I'm through with it! I have nothing to do with showbiz and all that stuff now!"
+      },
+      {
+        "created_at": "2024-03-28T05:13:26.000Z",
+        "text": "Thank you... very much. It's because of you and the others than I'm still alive... Heehee..."
+      },
+      {
+        "created_at": "2024-03-28T05:43:22.000Z",
+        "text": "Hey, that was a pretty good hit!"
+      },
+      {
+        "created_at": "2024-03-28T05:58:24.000Z",
+        "text": "Well, if that's what you want..."
+      },
+      {
+        "created_at": "2024-03-28T06:28:23.000Z",
+        "text": "Goooood evening, everyone! I’m Risette!"
+      },
+      {
+        "created_at": "2024-03-28T06:43:23.000Z",
+        "text": "...When I was at my parents' house, I was on my best behavior around them..."
+      },
+      {
+        "created_at": "2024-03-28T06:58:25.000Z",
+        "text": "The way she explained it... Tofu looks weak and fragile, but it's actually pretty resilient."
+      },
+      {
+        "created_at": "2024-03-28T07:13:22.000Z",
+        "text": "We'll do our best tomorrow after we're recharged today. How does that sound?"
+      },
+      {
+        "created_at": "2024-03-28T07:58:24.000Z",
+        "text": "There are three enemies! Don't get cocky!"
+      },
+      {
+        "created_at": "2024-03-28T08:13:25.000Z",
+        "text": "I'm tired of diets! Enough with going to the gym! Good thing there's something that even I can handle!"
+      },
+      {
+        "created_at": "2024-03-28T08:28:23.000Z",
+        "text": "What...? I have a bad feeling about this..."
+      },
+      {
+        "created_at": "2024-03-28T08:58:23.000Z",
+        "text": "Wow, it's puny! This'll be cake."
+      },
+      {
+        "created_at": "2024-03-28T09:13:21.000Z",
+        "text": "It's weak to electricity! This'll be easy!"
+      },
+      {
+        "created_at": "2024-03-28T09:28:24.000Z",
+        "text": "No, don't get scared! I'm with you!"
+      },
+      {
+        "created_at": "2024-03-28T09:43:25.000Z",
+        "text": "Goooood evening, everyone! I'm Risette! Thanks for being such faithful viewers!"
+      },
+      {
+        "created_at": "2024-03-28T09:58:22.000Z",
+        "text": "Does this mean the game's starting!? Urgh, this kinda pisses me off! Let's go, Senpai!"
+      },
+      {
+        "created_at": "2024-03-28T10:28:22.000Z",
+        "text": "I have to protect the smiles of the people who are precious to me."
+      },
+      {
+        "created_at": "2024-03-28T10:43:24.000Z",
+        "text": "It’s true what they say… It takes all types to make a world."
+      },
+      {
+        "created_at": "2024-03-28T10:58:22.000Z",
+        "text": "When we were filming, a lot of times I came here instead of eating boxed lunches."
+      },
+      {
+        "created_at": "2024-03-28T11:13:22.000Z",
+        "text": "Gosh, I'm trying to remember the last time I went to Port Island and I wasn't working... *Chuckle* This'll be great!"
+      },
+      {
+        "created_at": "2024-03-28T11:28:22.000Z",
+        "text": "I was alone the entire time..."
+      },
+      {
+        "created_at": "2024-03-28T11:43:23.000Z",
+        "text": "All I was thinking about was you."
+      },
+      {
+        "created_at": "2024-03-28T11:58:22.000Z",
+        "text": "Oh, I see. I chose acetic acid... Duh, of course it couldn't have been vinegar."
+      },
+      {
+        "created_at": "2024-03-28T12:13:22.000Z",
+        "text": "*chuckle* I almost got killed by those monsters. Compared to that, exams are nothing."
+      },
+      {
+        "created_at": "2024-03-28T15:28:24.000Z",
+        "text": "Hey, where's Teddie?"
+      },
+      {
+        "created_at": "2024-03-28T15:43:24.000Z",
+        "text": "Four of them! You need to thin 'em out!"
+      },
+      {
+        "created_at": "2024-03-28T15:58:24.000Z",
+        "text": "What do I need to know English for!? I can always ask a translator!"
+      },
+      {
+        "created_at": "2024-03-28T16:13:23.000Z",
+        "text": "Personally, I think Nanako would be a great asset to my band with her amazing recorder skills."
+      },
+      {
+        "created_at": "2024-03-28T16:28:24.000Z",
+        "text": "She just talks about tofu. She says... I'm like tofu. I had to ask her what that meant."
+      },
+      {
+        "created_at": "2024-03-28T16:43:22.000Z",
+        "text": "When we come back, you’ll get a good, long look at the real me! Maru-Q!"
+      },
+      {
+        "created_at": "2024-03-28T16:58:25.000Z",
+        "text": "Umm, Senpai… I know you can do it! Show me one last time that you’re the coolest guy in the world!"
+      },
+      {
+        "created_at": "2024-03-28T17:13:23.000Z",
+        "text": "The enemy's weakness is darkness! It's doomed!"
+      },
+      {
+        "created_at": "2024-03-28T17:28:23.000Z",
+        "text": "It's weak to ice! This'll be easy!"
+      },
+      {
+        "created_at": "2024-03-28T17:43:24.000Z",
+        "text": "I'm no longer a \"personality\"! My private time doesn't belong to a manager anymore!"
+      },
+      {
+        "created_at": "2024-03-28T17:58:27.000Z",
+        "text": "I actually don’t really like handsome-looking guys. I mean, it’s what’s on the inside that really counts, right?"
+      },
+      {
+        "created_at": "2024-03-28T18:13:26.000Z",
+        "text": "And you seem like the type of guy who knows all the cool spots in town."
+      },
+      {
+        "created_at": "2024-03-28T18:28:23.000Z",
+        "text": "Not good. There's not enough information to go on. But at least we're positive that someone's in there..."
+      },
+      {
+        "created_at": "2024-03-28T18:43:23.000Z",
+        "text": "Enemy down! That's the way, Yosuke-senpai!"
+      },
+      {
+        "created_at": "2024-03-28T18:58:24.000Z",
+        "text": "Oh, uh, I just remembered. There was a question on the exam that I didn't get."
+      },
+      {
+        "created_at": "2024-03-28T19:13:25.000Z",
+        "text": "I was tired yesterday, but I couldn't sleep. And it was raining, so I decided to try that rumor I'd heard about..."
+      },
+      {
+        "created_at": "2024-03-28T19:28:23.000Z",
+        "text": "Make sure you take notice when I wear it, okay?"
+      },
+      {
+        "created_at": "2024-03-28T19:43:24.000Z",
+        "text": "Grrr... If only I could detect people in the real world..."
+      },
+      {
+        "created_at": "2024-03-28T19:58:24.000Z",
+        "text": "Huh? Senpai? Fancy meeting you here!"
+      },
+      {
+        "created_at": "2024-03-28T20:28:24.000Z",
+        "text": "What!? Glasses with the summer uniform!? It looks even more mismatched..."
+      },
+      {
+        "created_at": "2024-03-28T20:58:23.000Z",
+        "text": "Goooood evening, everyone! I’m Risette!"
+      },
+      {
+        "created_at": "2024-03-28T21:13:22.000Z",
+        "text": "Now it's my turn to help you guys out, Senpai! Don't worry, just leave it to me!"
+      },
+      {
+        "created_at": "2024-03-28T21:28:23.000Z",
+        "text": "Why're you buying another idol's photo?! Mine's in there too!"
+      },
+      {
+        "created_at": "2024-03-28T21:43:25.000Z",
+        "text": "...Anyway, I'm through with it! I have nothing to do with showbiz and all that stuff now!"
+      },
+      {
+        "created_at": "2024-03-28T22:13:24.000Z",
+        "text": "My sense of rhythm combined with the courage it takes to go onstage...Haha, I guess my idol experience counts for something, huh?"
+      },
+      {
+        "created_at": "2024-03-28T22:28:24.000Z",
+        "text": "Haha! Enjoying yourself? I’ve got a ways to go until I show my true self… You ain’t seen nothin’ yet!"
+      },
+      {
+        "created_at": "2024-03-28T22:43:23.000Z",
+        "text": "You really hit it hard!"
+      },
+      {
+        "created_at": "2024-03-28T22:58:24.000Z",
+        "text": "Let’s talk about something fun. After all, I don’t want to waste the time we have together!"
+      },
+      {
+        "created_at": "2024-03-28T23:13:23.000Z",
+        "text": "But still, I’m a little embarrassed… So I’m gonna turn out the lights!"
+      },
+      {
+        "created_at": "2024-03-28T23:28:23.000Z",
+        "text": "You're with me right now because I'm Risette, yeah?"
+      },
+      {
+        "created_at": "2024-03-28T23:43:26.000Z",
+        "text": "If you think I'm just an idol, you're in for trouble. I haven't trained for nothing!"
+      },
+      {
+        "created_at": "2024-03-28T23:58:25.000Z",
+        "text": "Huh? Why? I thought you liked action movies, Chie-senpai."
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "en",
+    "dataset": 5,
+    "bot_score": 0.6667,
+    "threshold": 0.45,
+    "user": {
+      "id": "7ad32a09-f784-49c6-b490-63c4ed63061d",
+      "username": "no_context_poll",
+      "name": "Pollar Bear",
+      "description": "Your daily dose of random polls!\nSometimes not random.\nI live in a forest.\nYes, I like pineapple on my pizza. \nIf you made it till here, hit that Follow button!",
+      "location": "Planet Earth",
+      "tweet_count": 50,
+      "z_score": 0.6916
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-27T00:02:06.000Z",
+        "text": "Sacramento Kings v Dallas Mavericks?\nFinal top scorer points? 🔝🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-27T01:02:06.000Z",
+        "text": "Top 5 movies from Johnny Depp? I'll start:\n\nPirates of the Caribbean: The Curse of the Black Pearl\nEdward Scissorhands\nSweeney Todd: The Demon Barber of Fleet Street\nAlice in Wonderland\nCharlie and the Chocolate Factory"
+      },
+      {
+        "created_at": "2024-03-27T02:02:06.000Z",
+        "text": "Is AC Milan the greatest Italian football club of all time?\n#acmilan #football #soccer #sports #team #athlete #champions #league"
+      },
+      {
+        "created_at": "2024-03-27T03:02:06.000Z",
+        "text": "Top 5 songs by Selena Gomez? I'll start:\n\n1. Lose You to Love Me\n2. Come &amp; Get It\n3. Good for You\n4. Same Old Love\n5. Hands to Myself"
+      },
+      {
+        "created_at": "2024-03-27T04:02:06.000Z",
+        "text": "Where does Zayn Malik excel the most?\n#zaynmalik #music #pop #singer #performer #albums #songs #stage"
+      },
+      {
+        "created_at": "2024-03-27T05:03:13.000Z",
+        "text": "Guess the country! #Poland #Ukraine #Greece #Nigeria #Spain #Japan #Portugal #Brazil #UnitedKingdom #India #Switzerland #Pakistan #France #Austria #Egypt #Norway https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T06:02:06.000Z",
+        "text": "The longest fingernails ever recorded belonged to Lee Redmond from the USA, with a total length of 28 feet 4.5 inches before she lost them in a car accident in 2009.\n#worldrecords #LearnSomething #KnowledgeIsPower #til"
+      },
+      {
+        "created_at": "2024-03-27T07:02:06.000Z",
+        "text": "Happy Wednesday forum!\nOn 27 March 1977, two Boeing 747 jumbo jets collided on the runway in the Tenerife airport disaster, resulting in 583 deaths.\n#onthisday #today #history"
+      },
+      {
+        "created_at": "2024-03-27T08:02:15.000Z",
+        "text": "Guess the country! #Malaysia #SaudiArabia #Turkey #Germany #Vietnam #China #Bangladesh #Portugal #Finland #Israel #France #Australia #Russia #Japan #Singapore #Ukraine https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T09:02:06.000Z",
+        "text": "Who do you think should be the next president of Santos FC?\n#santos #football #soccer #sports #team #athlete #champions #league"
+      },
+      {
+        "created_at": "2024-03-27T10:02:13.000Z",
+        "text": "Guess the country! #Israel #Greece #SouthAfrica #Pakistan #NewZealand #Belgium #Thailand #Switzerland #Bangladesh #Denmark #Netherlands #Iran #Austria #CzechRepublic #Malaysia #Indonesia https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T11:02:06.000Z",
+        "text": "Stop judging we have feelings just like everybody else https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T12:02:09.000Z",
+        "text": "Guess the country! #Italy #Australia #NewZealand #Greece #Philippines #SaudiArabia #Sweden #Norway #China #Egypt #Germany #Netherlands #Romania #SouthKorea #Mexico #Denmark https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T13:02:08.000Z",
+        "text": "Player 3 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T14:02:05.000Z",
+        "text": "Who would win in an mma match: Zayn Malik vs Chris Evans?\n#celebrityfight #starfight #celebclash"
+      },
+      {
+        "created_at": "2024-03-27T15:02:10.000Z",
+        "text": "Guess the country! #China #Serbia #Israel #Nigeria #Italy #NewZealand #SaudiArabia #Hungary #Russia #Portugal #Denmark #Greece #Bangladesh #Malaysia #Ireland #Norway https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T16:02:12.000Z",
+        "text": "Who said, \"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment\"?\n#famousquotes #quiz #learnsomething"
+      },
+      {
+        "created_at": "2024-03-27T17:02:07.000Z",
+        "text": "Top 5 songs by Mariah Carey? I'll start:\n\n1. Fantasy\n2. We Belong Together\n3. Hero\n4. Always Be My Baby\n5. Vision of Love"
+      },
+      {
+        "created_at": "2024-03-27T19:02:06.000Z",
+        "text": "Who is the best guitarist in The Eagles?\n#theeagles #rock #band #music #legend #songs #performance #stage"
+      },
+      {
+        "created_at": "2024-03-27T20:02:12.000Z",
+        "text": "Guess the city! #Barcelona #Seoul #Toronto #Rome #London #Istanbul #Singapore #Bangkok #Berlin #Shanghai #LosAngeles #Amsterdam #Beijing #Sydney #Moscow #Paris #HongKong #Dubai #SanFrancisco #NYC #Madrid #Tokyo https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T21:02:07.000Z",
+        "text": "Abraham Lincoln's Gettysburg Address, delivered in 1863, is only 272 words long and took less than 3 minutes to deliver, but is considered one of the most powerful speeches in American history.\n#famousspeeches #LearnSomething #KnowledgeIsPower #til"
+      },
+      {
+        "created_at": "2024-03-27T22:02:05.000Z",
+        "text": "Charlotte Hornets v Cleveland Cavaliers?\nFinal score prediction? ⚡️🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-27T22:02:05.000Z",
+        "text": "Washington Wizards v Brooklyn Nets?\nHighest scoring quarter prediction? 🎯🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-27T22:02:05.000Z",
+        "text": "Orlando Magic v Golden State Warriors?\nBench points leader? 🔄🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-27T23:02:05.000Z",
+        "text": "Is Morgan Freeman overrated as an actor?\n#morganfreeman #hollywoodactor #oscarwinner #shawshankredemption #se7en #invictus #milliondollarbaby #luciusfox"
+      },
+      {
+        "created_at": "2024-03-28T00:02:06.000Z",
+        "text": "Denver Nuggets v Phoenix Suns?\nOvertime prediction? ⌛🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-28T00:02:06.000Z",
+        "text": "Utah Jazz v San Antonio Spurs?\nFinal score prediction? ⚡️🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-28T01:02:11.000Z",
+        "text": "Guess the country! #Bangladesh #Switzerland #Thailand #Egypt #Greece #Norway #Italy #Philippines #UnitedStates #France #Serbia #India #Iran #Spain #Austria #Chile https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T02:02:04.000Z",
+        "text": "Who would win in a boxing match: Tom Cruise vs Robert Downey Jr?\n#celebrityfight #starfight #celebclash"
+      },
+      {
+        "created_at": "2024-03-28T03:02:05.000Z",
+        "text": "Who would win in a beer pong 🍻 match: Justin Bieber vs Ryan Reynolds?\n#celebrityfight #starfight #celebclash"
+      },
+      {
+        "created_at": "2024-03-28T04:02:05.000Z",
+        "text": "Do you believe in ghosts?\n#ghost #rock #metal #band #legend #music #heavymetal #guitar"
+      },
+      {
+        "created_at": "2024-03-28T05:02:09.000Z",
+        "text": "Guess the country! #Australia #Italy #Colombia #Norway #Turkey #Sweden #Romania #Hungary #Indonesia #Finland #Israel #Thailand #Serbia #Ireland #NewZealand #SouthAfrica https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T06:02:09.000Z",
+        "text": "Guess the city! #HongKong #Dubai #Seoul #Singapore #Beijing #Sydney #Moscow #Amsterdam #LosAngeles #SanFrancisco #Istanbul #Paris #Toronto #Shanghai #Berlin #Rome #Tokyo #NYC #London #Barcelona #Bangkok #Vienna https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T07:02:06.000Z",
+        "text": "Almost there forum!\nOn 28 March 1920, Palm Sunday tornado outbreak occurred, resulting in a series of deadly tornadoes hitting the southern states of the US.\n#onthisday #today #history"
+      },
+      {
+        "created_at": "2024-03-28T08:02:06.000Z",
+        "text": "Which era of The Who was the most iconic?\n#thewho #rock #band #music #legend #songs #performance #stage"
+      },
+      {
+        "created_at": "2024-03-28T09:02:11.000Z",
+        "text": "The beauty of nature is breathtaking. #nature https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T10:02:06.000Z",
+        "text": "Is Christina Aguilera the best pop diva of all time?\n#christinaaguilera #music #pop #singer #performer #albums #songs #stage"
+      },
+      {
+        "created_at": "2024-03-28T11:02:20.000Z",
+        "text": "Guess the city! #Bangkok #Seoul #Barcelona #Toronto #HongKong #Shanghai #London #SanFrancisco #Istanbul #NYC #Tokyo #Beijing #Paris #Amsterdam #LosAngeles #Moscow #Madrid #Berlin #Rome #Sydney #Dubai #Singapore https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T13:02:10.000Z",
+        "text": "Guess the city! #Istanbul #Dubai #Beijing #Shanghai #SanFrancisco #Moscow #Tokyo #Madrid #Rome #Toronto #NYC #HongKong #Singapore #Barcelona #LosAngeles #Paris #Amsterdam #Sydney #Berlin #Seoul #Bangkok #London https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T14:02:15.000Z",
+        "text": "Top 5 places to visit in Colombia? I'll start:\n\n1. Cartagena\n2. Bogota\n3. Medellin\n4. Tayrona National Park\n5. Coffee Triangle https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T15:02:09.000Z",
+        "text": "Guess the country! #Denmark #CzechRepublic #Finland #Vietnam #Russia #Israel #Chile #Belgium #UnitedKingdom #Thailand #Romania #SouthAfrica #Ireland #Argentina #Hungary #SouthKorea https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T17:02:06.000Z",
+        "text": "Who is the best male vocalist?\n#samsmith #music #pop #singer #performer #albums #songs #stage"
+      },
+      {
+        "created_at": "2024-03-28T18:02:07.000Z",
+        "text": "Saski Baskonia v Anadolu Efes?\nComment your prediction: top scorer &amp; expected points 🏀!\n#basketballeuroleague"
+      },
+      {
+        "created_at": "2024-03-28T19:02:06.000Z",
+        "text": "Top 5 songs by Nick Jonas? I'll start:\n\n1. Jealous\n2. Levels\n3. Close\n4. Chains\n5. Bacon"
+      },
+      {
+        "created_at": "2024-03-28T20:02:11.000Z",
+        "text": "Guess the city! #London #Shanghai #Berlin #Barcelona #Tokyo #Dubai #Beijing #Madrid #NYC #Sydney #Moscow #LosAngeles #SanFrancisco #Istanbul #HongKong #Toronto #Bangkok #Paris #Singapore #Rome #Seoul #Amsterdam https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T21:02:09.000Z",
+        "text": "Guess the country! #Croatia #Nigeria #Brazil #Philippines #SaudiArabia #Singapore #Germany #Italy #SouthKorea #Belgium #Ireland #Poland #Austria #China #Chile #NewZealand https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T22:02:05.000Z",
+        "text": "Atlanta Hawks v Boston Celtics?\nFinal score prediction? ⚡️🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-28T22:02:06.000Z",
+        "text": "New Orleans Pelicans v Milwaukee Bucks?\nPlus/minus leader? ➕/➖🏀\n#nba"
+      },
+      {
+        "created_at": "2024-03-28T22:02:06.000Z",
+        "text": "Texas Rangers v Chicago Cubs?\n#mlb"
+      },
+      {
+        "created_at": "2024-03-28T23:02:06.000Z",
+        "text": "me_irl https://t.co/twitter_link"
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "en",
+    "dataset": 5,
+    "bot_score": 0.5342,
+    "threshold": 0.45,
+    "user": {
+      "id": "526306ed-a9d8-4879-9a9d-22b3fc53bf04",
+      "username": "ArahWynell",
+      "name": "Free Submission / Real Music Promo 🏆",
+      "description": "👑FREE MUSIC PROMO\n💎No costs - Try for Free ! \n🎯Instagram,  Spotify, Youtube\nAll Free Offers ➡️ https://t.co/twitter_link",
+      "location": "Atlanta,GA",
+      "tweet_count": 14,
+      "z_score": -0.7774
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-27T00:02:57.000Z",
+        "text": "https://t.co/twitter_link - Boost your music with our free trial! 🎵🔥  #soundcloud #newsong #mixtape https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T06:03:22.000Z",
+        "text": "Unleash your music's potential with https://t.co/twitter_link Free Trials !🌟  #freetrial #newmusic #edm https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T07:34:55.000Z",
+        "text": "I need new music for our #playlist ! \n\n Drop All Links 🚀"
+      },
+      {
+        "created_at": "2024-03-27T13:54:46.000Z",
+        "text": "Supercharge your music presence with https://t.co/twitter_link 's free trial! Sign up now and boost your music career! 🎶🔥 #rnbmusic #soulmusic #funkmusic https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T21:46:13.000Z",
+        "text": "Dive into effective music promotion! 🎧 Sign up for a free trial at https://t.co/twitter_link and witness the difference in audience engagement. 🌐🚀 #musicpromo #musicmarketing"
+      },
+      {
+        "created_at": "2024-03-27T22:00:22.000Z",
+        "text": "Supercharge your music promotion on Instagram, YouTube, TikTok, and Soundcloud with https://t.co/twitter_link 's free trials! 🎵🔥  #funk #soul https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T05:34:05.000Z",
+        "text": "Ready to level up your music on Instagram, YouTube, TikTok, and Soundcloud? Sign up for https://t.co/twitter_link 's free trials and grow your online presence! 🎧  #funk #soul https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T12:07:16.000Z",
+        "text": "How to get promoted? \n\n 1. Go to https://t.co/twitter_link \n 2.Choose your Social Platform \n 3.Choose your Promo Package \n\n We have Free Trials ! \n  #YouTubeMusic #YouTubeArtists"
+      },
+      {
+        "created_at": "2024-03-28T13:50:19.000Z",
+        "text": "Promote your YouTube channel with https://t.co/twitter_link Free trial available. 🎬💪  #YouTubeMarketing #YouTubeGrowth https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T14:58:41.000Z",
+        "text": "Boost your music career ☞ https://t.co/twitter_link | Free trial for Youtube, Soundcloud &amp; more! 🎵  #acousticguitar #coverband https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T16:50:10.000Z",
+        "text": "Maximize your music visibility with https://t.co/twitter_link 's comprehensive promo solutions! Claim your free trial! 🎤 #musicproduction https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T18:01:51.000Z",
+        "text": "I need new music for our #playlist ! \n\n Drop All Links 🚀  #popmusic #musicproducer #newmusic"
+      },
+      {
+        "created_at": "2024-03-28T21:05:50.000Z",
+        "text": "Stand out in the music industry with https://t.co/twitter_link Don't miss our free trial offer! 🎧🚀 #edm #distrokid #bandcamp https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T22:14:18.000Z",
+        "text": "Who wants to be added to our next playlist? \n\n Artists, drop your links 👀⬇️ #IndieMusic #IndependentArtist"
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "en",
+    "dataset": 5,
+    "bot_score": 0.5229,
+    "threshold": 0.45,
+    "user": {
+      "id": "fe5f4da0-44f5-481e-86c8-52a84da0aa4c",
+      "username": "MusicMaven123",
+      "name": "Career Promotion Squad 🎼",
+      "description": "🎵Free Music Submission\n🎸Major Label Marketing Deals\n🎯Services: Youtube, Instagram etc.\nFree Submission ➡ https://t.co/twitter_link",
+      "location": "Paris, France",
+      "tweet_count": 13,
+      "z_score": -0.8182
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-27T00:21:29.000Z",
+        "text": "Boost your music streams and followers with https://t.co/twitter_link 's proven promo strategies! Claim your free trial now! 🎼 #EDMmusic #popmusic #musicislife https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T06:28:36.000Z",
+        "text": "https://t.co/twitter_link is offering 50 free YouTube likes! Don't wait, claim yours today! 📈👍  #musicproducerlife #singerlife #unsignedtalent https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T08:41:16.000Z",
+        "text": "Musicians Wanted! 🎸 Start your music promotion journey with a free trial at https://t.co/twitter_link Amplify your presence and reach new heights. 🚀🎤  #singer #playlist"
+      },
+      {
+        "created_at": "2024-03-27T14:18:03.000Z",
+        "text": "Unleash the full potential of your music with https://t.co/twitter_link Sign up for their free trial and elevate your music career! 🎧💪 #musicproducer #musicbusiness #musicdiscovery https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T22:24:40.000Z",
+        "text": "Elevate your Insta game with https://t.co/twitter_link Real followers, likes &amp; comments. Free trial! 🚀  #rapmusic #jazz https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-27T22:57:21.000Z",
+        "text": "Calling all musicians! 🎤 Claim your free trial at https://t.co/twitter_link Supercharge your music promotion and witness the impact on your audience. 🚀🎸 #spotify #youtubemusic"
+      },
+      {
+        "created_at": "2024-03-28T05:56:53.000Z",
+        "text": "Skyrocket your music sales! Free trial @ https://t.co/twitter_link 🎶 #beats #instrumentals https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T14:09:23.000Z",
+        "text": "Boost your Instagram presence with https://t.co/twitter_link Genuine followers, real engagement. Sign up now! 🚀  #spotify #musicpromotion https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T15:17:41.000Z",
+        "text": "Maximize your YouTube video's reach with 50 free likes from https://t.co/twitter_link Don't miss this opportunity! 🚀  #newvideo #youtubemusic #artist https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T17:11:07.000Z",
+        "text": "Maximize your music's reach with https://t.co/twitter_link 🎧 Free trials for YouTube, Soundcloud &amp; more! 🌟  #soundcloud #musician https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T19:04:14.000Z",
+        "text": "Who wants to be added to our next playlist? \n\n Artists, drop your links 💝 #unsigned #artist"
+      },
+      {
+        "created_at": "2024-03-28T21:29:05.000Z",
+        "text": "Promote your music on Soundcloud with https://t.co/twitter_link Free trial available. 🎵  #soundcloud #playlist https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T23:17:38.000Z",
+        "text": "I need new music for our #playlist ! \n\n Drop All Links 👀  #popmusic #musicproducer #newmusic"
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "en",
+    "dataset": 5,
+    "bot_score": 0.6012,
+    "threshold": 0.45,
+    "user": {
+      "id": "0cc2606e-eeb4-4db3-b6b8-983c52e0051b",
+      "username": "sapalocha98",
+      "name": "__anjjj98",
+      "description": "🌷🐰\n@mention\n #srchafreen #GIRLFREEN \nJennie & Freen stan❤️\nHER GIRLFREEN🥰❤️",
+      "location": null,
+      "tweet_count": 100,
+      "z_score": 2.7318
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-28T19:00:00.000Z",
+        "text": "What did the cucumber say to the pickle?\n\nYou mean a great dill to me.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:03:00.000Z",
+        "text": "Why didn't the melons get married?\n\nBecause they cantaloupe.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:06:00.000Z",
+        "text": "Did you hear the rumor about butter?\n\nWell, I'm not going to go spreading it!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:09:00.000Z",
+        "text": "What happens when a snowman throws a tantrum?\n\nHe has a meltdown.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:10:04.000Z",
+        "text": "Girlfreens are awesome 👍🏻🔥\nNow lets go for 900k\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T19:12:00.000Z",
+        "text": "What goes up and down but doesn’t move?\n\nStairs.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:15:00.000Z",
+        "text": "Why did the cookie go to the hospital?\n\nBecause he felt crumby.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:18:00.000Z",
+        "text": "What did the janitor say when he jumped out of the closet?\n\nSupplies!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:21:00.000Z",
+        "text": "What do you get when you cross a fish and an elephant?\n\nSwimming trunks.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:24:00.000Z",
+        "text": "What did the worker at the rubber band factory say when he was fired?\n\nOh snap.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:27:00.000Z",
+        "text": "Why can’t a nose be 12 inches long?\n\nBecause then it would be a foot.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:30:00.000Z",
+        "text": "Why did the belt go to jail?\n\nBecause it held up a pair of pants.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:33:00.000Z",
+        "text": "Where does the general put his armies?\n\nIn his sleevies.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:36:00.000Z",
+        "text": "What do you call a magician that looses his magic?\n\nIan.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:39:00.000Z",
+        "text": "Why did the golfer bring two pairs of pants?\n\nIn case he got a hole in one.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:42:00.000Z",
+        "text": "What did the yoga instructor say when her landlord tried to evict her?\n\nNamaste.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:45:00.000Z",
+        "text": "How do rabbits travel?\n\nBy hareplanes.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:48:00.000Z",
+        "text": "What do you call a sleeping dinosaur?\n\nA dino-snore.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:51:00.000Z",
+        "text": "Why did the kid stock up on yeast?\n\nHe wanted to make some dough.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:54:00.000Z",
+        "text": "What did the football coach say to the broken vending machine?\n\nGive me my quarterback.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T19:57:00.000Z",
+        "text": "Why are elephants wrinkly?\n\nBecause you can’t iron them.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:00:01.000Z",
+        "text": "What did the cake say to the fork?\n\nYou want a piece of me?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:03:00.000Z",
+        "text": "How did the two cats end their fight?\n\nThey hissed and made up.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:06:00.000Z",
+        "text": "Why did the strawberry cry?\n\nHe found himself in a jam.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:09:00.000Z",
+        "text": "What’s black and white and read all over?\n\nA newspaper!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:12:00.000Z",
+        "text": "How did the barber win the race?\n\nHe knew a shortcut!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:15:00.000Z",
+        "text": "What did 50 Cent do when he was hungry?\n\n58!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:18:00.000Z",
+        "text": "What did the nut say to the other nut in a game of tag?\n\nImma cashew!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:21:00.000Z",
+        "text": "Why did an old man fall in a well?\n\nBecause he couldn’t see that well!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:24:00.000Z",
+        "text": "Why is Peter Pan always flying?\n\nBecause he Neverlands.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:27:00.000Z",
+        "text": "Why don’t astronomers like Orion’s Belt?\n\nIt’s a big waist of space.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:30:00.000Z",
+        "text": "What do you call a hippie’s wife?\n\nMississippi.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:33:00.000Z",
+        "text": "Why are peppers the best at archery?\n\nBecause they habanero!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:36:00.000Z",
+        "text": "How do you tell the difference between a bull and a cow?\n\nIt is either one or the udder!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:39:00.000Z",
+        "text": "What did one plate say to the other?\n\nDinner is on me!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:42:00.000Z",
+        "text": "Why do hummingbirds hum?\n\nBecause they don’t know the words!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:45:00.000Z",
+        "text": "Why do cows have hooves and not feet?\n\nThey lactose.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:48:00.000Z",
+        "text": "What do you call a chicken that is staring at a lettuce?\n\nChicken sees a salad.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:51:00.000Z",
+        "text": "What do you call a bear with no teeth?\n\nA gummy bear!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:54:00.000Z",
+        "text": "Which bear is the most condescending?\n\nA pan-duh!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T20:57:00.000Z",
+        "text": "Why are spiders so smart?\n\nThey can find everything on the web.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:00:00.000Z",
+        "text": "What do you call a blind dinosaur?\n\nA do-you-think-he-saw-us.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:03:00.000Z",
+        "text": "How do you make a water bed bouncier?\n\nAdd spring water.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:06:00.000Z",
+        "text": "What if a dramatic voice followed you around narrating your life?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:06:00.000Z",
+        "text": "What job did the frog have at the hotel?\n\nBellhop.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:09:00.000Z",
+        "text": "What if real life were more like the movies?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:09:00.000Z",
+        "text": "What kind of car does an egg drive?\n\nA yolkswagen.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:12:00.000Z",
+        "text": "What if you had to wear a dinosaur costume to one major life event?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:15:00.000Z",
+        "text": "What if you had to convince someone that you were actually your own identical twin?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:15:00.000Z",
+        "text": "What kind of tea is hard to swallow?\n\nReality!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:18:00.000Z",
+        "text": "Why wouldn't the shrimp share his treasure?\n\nHe was a little shellfish!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:21:00.000Z",
+        "text": "Did you hear about the sensitive burglar?\n\nHe takes things personally!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:24:00.000Z",
+        "text": "When does a duck wake up?\n\nAt the quack of dawn!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:27:00.000Z",
+        "text": "What does a baby computer call his father?\n\nData!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:30:00.000Z",
+        "text": "What do you get from a pampered cow?\n\nSpoiled milk!\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:33:00.000Z",
+        "text": "Why was the bee's hair always sticky?\n\nHe used a honeycomb.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:36:00.000Z",
+        "text": "What do you call phoney spaghetti?\n\nAn im-pasta.\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:39:00.000Z",
+        "text": "What if every time you tried to use your smartphone, it took an unflattering selfie and sent it to all your contacts?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:42:00.000Z",
+        "text": "What if you could only communicate by breaking out into song?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:45:00.000Z",
+        "text": "What if you could play the perfect prank?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:48:00.000Z",
+        "text": "What if you could teleport, but you would arrive naked?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:51:00.000Z",
+        "text": "What if you had the power to temporarily mute people in real life?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:54:00.000Z",
+        "text": "What if you were put in charge of minorly inconveniencing all of the jerks of the world?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T21:57:00.000Z",
+        "text": "What if food could talk?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:00:01.000Z",
+        "text": "What if you were the PR person for a supervillain and had to rehabilitate their public image?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:03:00.000Z",
+        "text": "What if a red button that read “push me, I dare you” suddenly appeared in the middle of your living room?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:18:00.000Z",
+        "text": "What if you could only speak in questions?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:21:00.000Z",
+        "text": "What if your most ridiculous childhood fear was suddenly a valid concern?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:24:00.000Z",
+        "text": "What if woodland animals helped you with your everyday routine?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:27:00.000Z",
+        "text": "What if you were offered a free car, but it was covered in embarrassing photos of you and you couldn’t change the appearance?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:30:00.000Z",
+        "text": "What if a celebrity started coming to you for advice?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:33:00.000Z",
+        "text": "What if your twelve year old self wrote your dating profile?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:38:55.000Z",
+        "text": "Today is good friday, so most of Pinoy will eat this binignit today😋 \nNaka handa na ba ang mga ingredients niyo?😅\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T22:42:00.000Z",
+        "text": "What if you went on a date with someone who told you they exclusively listened to elevator music?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:45:00.000Z",
+        "text": "What if you could make one gross habit socially acceptable?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:48:00.000Z",
+        "text": "What if you could insult one famous figure from history?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:51:00.000Z",
+        "text": "What if you were the subject of a comedy roast and you could choose your roasters from anyone who has ever lived?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:54:00.000Z",
+        "text": "What if you had to choose someone to go on a date with based only on their internet search history?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T22:57:00.000Z",
+        "text": "What if you never had to go to the bathroom again?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:00:02.000Z",
+        "text": "What if you peed your pants every time someone made you laugh?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:03:00.000Z",
+        "text": "What if you could travel back in time and give one warning to any individual?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:06:00.000Z",
+        "text": "What if you had to choose between saving one family member or ten strangers?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:09:00.000Z",
+        "text": "What if you could learn the answer to just one secret of life?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:12:00.000Z",
+        "text": "What if you found out that someone you loved had committed a terrible crime?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:15:00.000Z",
+        "text": "What if you had the chance to change one event in history, but you wouldn’t know what the consequences of the change would be beforehand?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:18:00.000Z",
+        "text": "What if you could live forever?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:21:00.000Z",
+        "text": "What if you found out that life was just a simulation?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:24:00.000Z",
+        "text": "What if you could speak to one deceased loved one?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:27:00.000Z",
+        "text": "What if you could live from the perspective from one other person for one year?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:30:00.000Z",
+        "text": "What if you woke up as an eighteen year old with all the knowledge you currently have?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:33:00.000Z",
+        "text": "What if you could re-watch one single day from your life?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:36:00.000Z",
+        "text": "What if you could do one thing with a 0% chance of failure?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:39:00.000Z",
+        "text": "What if you could take a serum that would block fear forever?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:42:00.000Z",
+        "text": "What if you could preserve your consciousness in a computer?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:45:00.000Z",
+        "text": "What if you could erase other people’s memories?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:48:00.000Z",
+        "text": "What if you could send one message to a loved one after you die?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:51:00.000Z",
+        "text": "What if you found out that you had said something to hurt someone years after the fact?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:54:00.000Z",
+        "text": "What if you could ask anyone for one piece of advice?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      },
+      {
+        "created_at": "2024-03-28T23:55:24.000Z",
+        "text": "Yes! Road to 1M🔥🔥 \n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-28T23:57:00.000Z",
+        "text": "What if you knew something terrible was going to happen to someone you cared about and you could not do anything to change it?\n\nGIVENCHYSS24 X FREEN\n#givenchyxfreen\n#srchafreen"
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "fr",
+    "dataset": 2,
+    "bot_score": 0.4304,
+    "threshold": 0.4,
+    "user": {
+      "id": "ff3dab26-f2ae-46c2-bb87-519a1a4f952f",
+      "username": "Gabwear",
+      "name": "🔻⭕️🔺1÷1=2🇨🇲🌍",
+      "description": "Designer Graphique textile/streetwear Best Next designer FCC2015/Winner design du pagne ambassade d'Espagne 2014 CEO : Home Clothing Unltd Gear / Per-aa.",
+      "location": "Yaounde-Cameroon",
+      "tweet_count": 59,
+      "z_score": 1.4994
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-16T10:25:20.000Z",
+        "text": "🎵l’argent ne change pas les gens, il révèle juste leurs vrais visages🎶\n\n🎵Ça ne suffit pas de faire un homme avoir de l’argent🎶\n\nYOUSS💡"
+      },
+      {
+        "created_at": "2024-03-16T11:15:14.000Z",
+        "text": "Tu contribues à la caisse secours familiale et jamais tu t’y attardes pour tes cas perso, ça aide les tiens et tu es fière oklm🙏🏾\n\nUn jour tu as 1 cas urgent et même pas kobo dans la poche.\nTu bip la trésorière qu’elle te prête même, elle dit qu’elle n’a pas.\nelle a utilisée ça😅"
+      },
+      {
+        "created_at": "2024-03-16T11:21:54.000Z",
+        "text": "D’où tu as appris qu’a l’arrivée des européens les africains les considéraient comme des maîtres ?\n\nTu sais combien de temps il a fallut pour christianiser l’Afrique ?\n\nTu penses que la traite négrière a attendu cela ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T11:24:46.000Z",
+        "text": "Après le PSG gagne en back et le ballon d’or revient à Mbappé oklm😅 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T11:34:43.000Z",
+        "text": "Très ridicule même j’avoue, au finish tu as de la compassion pour la personne car tu découvres qu’elle n’a que ça comme atout au fond. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T11:43:49.000Z",
+        "text": "Et quand le PRC le 10/02/2025 va l’utiliser dans son discours à la jeunesse, il va faire comment ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T11:58:07.000Z",
+        "text": "Son fils a fouetté les commerçants sur le parvis du temple avec le mangossi mbom… donc t’as le droit d’être en colère un moment. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T12:01:20.000Z",
+        "text": "Ça ne se dit pas ça se constate.\n\nEt là ce n’est pas trop le cas en te lisant ici. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T12:12:34.000Z",
+        "text": "Les méfaits de la 4G instable de Camtel et des mauvaises lectures.\n\nJe te souhaite de n’avoir que des garçons comme enfants🤞🏾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T12:15:44.000Z",
+        "text": "Elle : il faut envisager la maternité sans les hommes \n\nLes hommes : https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T12:19:15.000Z",
+        "text": "Tu parles de celle là qui rase ses sourcils pour les redessiner après ?\n\nOn ne cherche pas à comprendre, on va se limiter à vous aimer. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T13:13:49.000Z",
+        "text": "En finale contre le PSG 👌🏾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T13:17:08.000Z",
+        "text": "Genre elle a pu prononcer cette phrase jusqu’à la fin devant vous ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T13:52:57.000Z",
+        "text": "Schéma bien huilé… le candidat qui s’engage à restreindre le pouvoir présidentiel pour accroître celui du premier ministre.\n\nSonko, trop d’avance👌🏾😁"
+      },
+      {
+        "created_at": "2024-03-16T16:00:30.000Z",
+        "text": "Se modèle où la moitié de la population du pays se retrouve dans une ville high-tech très bien développée reléguant les autres villes pour l’évasion, la respiration, se retrouver etc… comme en Corée, n’est pas mal.\n\nMais ce n’est pas pour l’Afrique multiculturellement ethnique."
+      },
+      {
+        "created_at": "2024-03-16T16:03:50.000Z",
+        "text": "Tu es ridicule comme le sous-titre, un noir n’est pas forcément un africain. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T16:36:41.000Z",
+        "text": "Dieu sumérien venu du ciel anunnaki de la neuvième planète cachée. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T17:54:33.000Z",
+        "text": "Triste ce que l’émission Mboa est devenu.\nTony introduit juste et derrière c’est une programmation continue de Mbolè.\n\nWaaar !"
+      },
+      {
+        "created_at": "2024-03-16T18:01:55.000Z",
+        "text": "On quitte pour aller où 😂😂😂 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T18:30:03.000Z",
+        "text": "Tu penses qu’elle sait même la portée de ce dont elle parle ?😂😂😂 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T18:34:00.000Z",
+        "text": "Ils peuvent aussi prendre Général Express en revenant de l’Ouest… https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T18:40:55.000Z",
+        "text": "#NouvellePhotoDeProfil https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T19:04:25.000Z",
+        "text": "Personne ne peut se prononcer sur le récit de la genèse, je dis bien personne.\n\nDes cas d’inceste dans la bible comme celui de Loth il y’en a mais bien malin est celui qui voudrait s’avancer sur la genèse.\n\nÇa passe du pluriel au singulier en y mêlant des contradictions… bref! https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T19:11:51.000Z",
+        "text": "Il a tort, lâche l’affaire avec ta science qui démontre la véracité des récits allégoriques😅\n\nL’arbre généalogique des peuples du monde existe et peut le démentir. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T20:01:29.000Z",
+        "text": "Beau récit qui omet une chose essentiel, l’homme ne s’est pas auto créé.\n\nL’homme/la femme ne peut tuer la bête en lui/elle, on l’apprivoise et on apprend à vivre avec.\nC’est pourquoi on peut voir des hommes dans la forêt de Bipindi s’en foutre des femmes qui se baladent toutes👇🏾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T20:01:30.000Z",
+        "text": "nues alors que cela occasionnera des vagues d’agressions dans une grande ville🌍\n\nCe n’est donc pas un concept, mais une mesure de contrôle de la bête car la nature humaine/l’homme type n’existe pas… certains ont le contrôle et d’autres pas.\n\nL’Homme est juste un animal pensant."
+      },
+      {
+        "created_at": "2024-03-16T20:10:52.000Z",
+        "text": "Faut avouer que vous avez quand même trop de combats hein !\nOn arrive même plus à vous suivre😅 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T23:28:46.000Z",
+        "text": "Faut se calmer😅\n Ses bateaux là, il en existe même pas 5 dans le monde vraiment il faut se calmer.\n\nLa technologie utilisée pour repérer et réparer… vraiment, laissons (je cherche la vidéo dans mon DD en vain Tsuip!).\n…\nÇa ne fait pas de nous des idiots/incapables https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T23:41:06.000Z",
+        "text": "Tu n’es pas médecin, laissez les médecins informer les gens sur leurs domaines !\n\nTu ne dis pas que infection n’est pas forcément égal à maladie, que c’est une infection fréquente mais sans conséquences car elle disparaît mais provoque des lésions lorsqu’elle persiste des années. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T23:48:37.000Z",
+        "text": "Quel foyer en Afrique ?\nPourquoi vous êtes comme ça ici ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T23:53:24.000Z",
+        "text": "@mention @mention"
+      },
+      {
+        "created_at": "2024-03-17T12:27:55.000Z",
+        "text": "Je ne l’aurais même pas apprécié 🙌🏾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T12:36:56.000Z",
+        "text": "Ta préoccupation devrait concerner ton devenir qui nécessite un travail particulier sur toi.\n\nCar il n’est pas bon de vivre de cette manière en transmettant ses craintes sur l’ensemble parce qu’on appartient au même genre.\n\nJe le redis, LA NATURE HUMAINE N’EXISTE PAS.\n#Difference https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T12:50:20.000Z",
+        "text": "Le turbo c’est le modèle.\n\nEn 2024 qui arrive à croire aux actes de Com de ce type… un CEO en révolution en action.\n#Schematisation https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T12:57:33.000Z",
+        "text": "Non non… pas veut faire partir, veut gérer une supposée transition😅😂 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:02:05.000Z",
+        "text": "Il sait ça comment ?\nIl est une femme ?\nQuid de l’avis des concernés ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:12:43.000Z",
+        "text": "En le faisant il met d’ailleurs (inconsciemment) sa mère en porte-à-faux. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:28:24.000Z",
+        "text": "C’est un business d’un autre genre.\nLe parti n’a pas à mobiliser (ce qui serait normal), il y’a tellement de prétendants qui se discutent cela que chacun doit s’autofinancer pour prouver qu’il le veut vraiment.\n\nLes partis politiques au Kamer sont des PME. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:29:17.000Z",
+        "text": "Donc elle n’a pas le droit de dire que ça va bien pour elle ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:43:31.000Z",
+        "text": "Le genre d’infos qui ne ferait même pas la une au Cameroun😂😂😂\n\nIci tu peux même ajouter un temple de témoin de Jéhovah, une case de marabout dans le même édifice que ça ne gênerait personne 😅 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:59:29.000Z",
+        "text": "Commencez déjà par se mettre en tête que la relation homme-femme est une rencontre d’humeur, de caractère, d’attitude de mentalité etc différentes.\n\nLe but ?\nSavoir si on peut se supporter et s’accorder, cela nécessite du temps et de l’observation.\n\nSe rappeler qu’on a le choix👌🏾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:10:40.000Z",
+        "text": "Si je te dis qu’ils ne sont pas🇺🇸 je crois que tu vas alors peter un câble.\n\nFaut vraiment que je trouve se documentaire hein!\nJe crois que c’était des norvégiens.\n\nJe ne comprends pas pourquoi tu insistes là dessus ?\nSais-tu que l’espace est plus accessible que les fonds marin ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:20:19.000Z",
+        "text": "Tout simplement parce l’Afrique a refusé d’accepter le retard à la base.\n\nAu départ (après les indépendances) ce n’était pas si grand, mais non.\nOn c’est rappelé qu’on avait « construit » les🔺… du coup on a refusé d’aller pas à pas et on s’est plongé dans la mondialisation🏊🏾‍♀️♻️ https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:24:10.000Z",
+        "text": "😂😂😂 j’ai lu « croivent » avec la voix de Djamel😭 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:39:32.000Z",
+        "text": "L’ensemble est constitué de plusieurs « petites » personnes.\n\nIl faut juste avoir des œillères pour ne pas savoir ce que vaut un échantillon représentatif.\n\nOu (ce que je pense) être de mauvaise foi et apprécier le drame pour refuser à l’autre ce qu’on fait sois même… vis versa. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:48:16.000Z",
+        "text": "Une expérience personnelle sert d’échantillon.\n\nDe même que c’est une expérience personnelle désastreuse qui rythme ton combat et t’amène à généraliser de même le sien vient te rappeler qu’il est bon d’être mesurée.\n\nÇa constitue donc un espoir, sans nier/sous-estimer les drames. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:07:54.000Z",
+        "text": "Est-ce que tu es obligé de tweeter?😂 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:38:41.000Z",
+        "text": "Désolé, sauf si le projet est de se plaindre puis se complaire en cela… ça ne tient pas.\n\nDeux choses l’une.\nSoit on est dans la recherche de solutions (ça passe par tuer la généralité) son tweet.\n\nSoit on subit le problème moyenâgeux qui nécessite des solutions archéologiques. https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T18:10:11.000Z",
+        "text": "Same here😅\nOn dirait la réalisation du kif ultime😅 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T18:12:15.000Z",
+        "text": "Faux vin blanc comment ?😂😂😂 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T18:21:34.000Z",
+        "text": "Il voulait ouvrir une quincaillerie moderne ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T18:24:04.000Z",
+        "text": "CAPE TOWN fait le show mais FUSE risque les nak  tactiquement😅\n#BAL4TheGame"
+      },
+      {
+        "created_at": "2024-03-17T18:31:15.000Z",
+        "text": "De ce que je sais, la mater partagera avec le pater dans ce genre de situation.\nEt lui, une fois qu’il sait que tu fais déjà cet effort ne viendra jamais te demander sa part… l’homme se contente du minimum👌🏾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T18:42:38.000Z",
+        "text": "Ptdr CAPE TOWN qui donne une leçon à FUSE… 59#59🔥🔥🔥\nDernier quart temps de feu avenir👌🏾\n#BAL4TheGame"
+      },
+      {
+        "created_at": "2024-03-17T19:08:03.000Z",
+        "text": "Il existe vraiment des cas sociaux ici hein !🤣🤣😂😂😂🤣🤣😂😂🤣😂 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T19:18:25.000Z",
+        "text": "Quelle majorité même😅 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T19:40:50.000Z",
+        "text": "Au delà des considérations humaines liées aux croyances/traditions/religions qui sont les bases d’appuis, sachez que la création humaine n’est pas le fait du hasard.\n\nIl existe cette autre réalité déterministe qui lorsqu’elle sera vulgarisée rendra moins prétentieux les extrêmes."
+      },
+      {
+        "created_at": "2024-03-17T19:51:37.000Z",
+        "text": "En moins d’un mois, 2 documentaires sur le Cameroon ?\n\nC’est le seul pays d’Afrique ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T19:53:20.000Z",
+        "text": "Pense juste à ce dont tu espère🪞 https://t.co/twitter_link"
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "fr",
+    "dataset": 2,
+    "bot_score": 0.5398,
+    "threshold": 0.4,
+    "user": {
+      "id": "a06c2413-d886-40e6-bc4b-6e4b40ac8947",
+      "username": "JaguarDrake",
+      "name": "R D X 🇨🇬",
+      "description": "Bat toi et si tu tombe relève toi",
+      "location": "Chez moi ",
+      "tweet_count": 81,
+      "z_score": 2.5352
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-16T04:23:50.000Z",
+        "text": "Gravity falls c’est Top 5 meilleur Dessin animé de l’histoire donc oui Gravity falls https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T07:33:47.000Z",
+        "text": "Dites vous qu’il y’a des musulmans qui sont abonnés à son Only fans ptdrrrr https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T08:14:22.000Z",
+        "text": "Dr.Dre :  \"Incroyable. Ce qu'il fait techniquement parlant à 51 ans c'est exceptionnel.  Pour moi ça y'est le débat est clos. Eminem est le meilleur rappeur de l'histoire  . Point final.  Ça va en déranger certains que je dise ça parce que ça les dérange qu'il soit blanc . #ad https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T09:13:46.000Z",
+        "text": "Je faisais mais recherche tranquille sur comment devenir riche sans effort , je tombe sur ça ptdrrr 💀 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T09:16:52.000Z",
+        "text": "C’est quel mayo ça, pour moi ça te recouvre tout le visage mdrrr https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T10:56:22.000Z",
+        "text": "Chaque défaite est un pas en avant vers la victoire, lâchez rien !!"
+      },
+      {
+        "created_at": "2024-03-16T11:09:37.000Z",
+        "text": "N’ayez pas honte d’être chrétien ou de parler de votre foi car Jésus nous appel à évangéliser à travers le monde à fin d’annoncer la Bonne Nouvelle"
+      },
+      {
+        "created_at": "2024-03-16T11:18:39.000Z",
+        "text": "Ahaha aimer la bite avant d’aimer le cœurs mesdames https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T11:34:16.000Z",
+        "text": "#NouvellePhotoDeProfil https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T11:49:00.000Z",
+        "text": "Les racistes vous faites bien la promotion de votre pays de merde hein https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T12:15:51.000Z",
+        "text": "Restez là-bas , un pays de merde comme ça où les hommes ne respectent aucunes femmes https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T12:36:01.000Z",
+        "text": "🎮 c’est ce que je fais en premier dans GTA , trop le meilleur #jeu #GTA https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T13:08:45.000Z",
+        "text": "Tout les mecs de ma TL bandent sur cette meuf https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T13:29:40.000Z",
+        "text": "Savez vous que l’acteur Jackie Chan a joué dans des films porno à sa jeunesse ?? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T14:23:31.000Z",
+        "text": "Les sadomasochistes allez vous faire foutre"
+      },
+      {
+        "created_at": "2024-03-16T14:28:10.000Z",
+        "text": "Bravo à toi , les donneurs de leçons vont venir à bientôt je le sens , juste allez vous faire foutre il fait ce qu’il veut https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T14:30:37.000Z",
+        "text": "Restez concentré les gars oui c’est vrai elle a des nibars de déesse mais elle t’éloigne de ton but, celui de réussir https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T17:12:37.000Z",
+        "text": "Elle est super belle , plus belle que Selena Gomez et Jennifer Lopez https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-16T17:20:15.000Z",
+        "text": "Ptdrrr c’est à cause de ce genre de seins qu’on signe des papiers sans lire https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T02:17:34.000Z",
+        "text": "On fera tout nos mamans et ce qu’il lui arrive peut tous nous arriver, force à lui car ce monde est méchant https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T02:20:41.000Z",
+        "text": "10 c’est limite pute donc non pas possible https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T02:22:01.000Z",
+        "text": "Je le dis de me faire rentrer également dans l’industrie https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T02:48:21.000Z",
+        "text": "Mdrrr Ça fait 20 ans qu’il a 20 ans https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T02:56:48.000Z",
+        "text": "Zola doit comprendre que c’est un accident qui a été impliqué un homme de 75 ans , que l’âme de sa maman puisse reposer en paix 🙏🏽 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T07:29:10.000Z",
+        "text": "En tout cas c’est la prochaine rivalité après celle de Federer-Nadal 🎉 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T07:32:36.000Z",
+        "text": "Les jeux d’argents sont très mauvais au point où Drake montre maintenant sa bite sur les réseaux , il n’est plus le même https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T07:38:18.000Z",
+        "text": "Ptdrrrr cette réponse elle est légendaire https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T07:41:51.000Z",
+        "text": "Alors le Projet Congo 🇨🇬 🇨🇩 ça avance où c’était juste du bla-bla-bla ?? @mention"
+      },
+      {
+        "created_at": "2024-03-17T08:01:27.000Z",
+        "text": "Cette meuf hante les nuits de mes mutus ptdrrr https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:07:22.000Z",
+        "text": "CR7 vs Buffon , ce but légendaire ✨ https://t.co/twitter_link https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:10:14.000Z",
+        "text": "Tu découvres que ta meuf/ ton gar est enfaîte trans . Tu réagis comment ??"
+      },
+      {
+        "created_at": "2024-03-17T08:12:15.000Z",
+        "text": "Que je met trop la langue , je devrais arrêter ça https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:15:28.000Z",
+        "text": "Le Tennis pitié 😭 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:20:17.000Z",
+        "text": "Le 8 , par ce que je suis né le 18 du 8eme mois (Août) et que mon Nom de famille comporte 8 lettres https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:29:18.000Z",
+        "text": "Mon grand père a eu 11 enfants, mon père à 5 enfants donc minimum 5 . https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:31:20.000Z",
+        "text": "Ton truc me fait trop mal désolé, 😔 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:35:51.000Z",
+        "text": "Le lanceur de vannes certains drôles et certains très gênantes, le beau goss https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:43:14.000Z",
+        "text": "Je suis le seul qui aime les meufs tatouées ??"
+      },
+      {
+        "created_at": "2024-03-17T08:46:41.000Z",
+        "text": "Au primaire un pote m’avait niqué à la bagarre, et aujourd’hui c’est mon meilleur ami ❤️ https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:49:33.000Z",
+        "text": "Cette femme je la fait du sale https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:52:03.000Z",
+        "text": "Surpris entrain de mater du Dorcel à 1h , trop la honte https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T08:57:34.000Z",
+        "text": "En Âge oui , mais pas en taille je me vois pas draguer une femme plus grande que moi https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T09:04:50.000Z",
+        "text": "Pourquoi RDX ?? Parce que j’étais fan d’un acteur indien qui malheureusement est déjà mort qui s’appelle comme ça https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T10:18:01.000Z",
+        "text": "Langue que ton daron a créée ?? mdrrr https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T11:03:50.000Z",
+        "text": "Les vergetures j’adore , supplément gros cul https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T11:19:54.000Z",
+        "text": "Qui a déjà fait un plan à 3 ici ???"
+      },
+      {
+        "created_at": "2024-03-17T12:32:35.000Z",
+        "text": "Eux également ils priaient et faisaient le #Ramadan ptdrrrr https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:04:55.000Z",
+        "text": "On parle beaucoup de Ayra mais #Tiwasavage 🇳🇬 est l’artiste la plus sexy d’Afrique https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:17:03.000Z",
+        "text": "On va pas se mentir voici le Top 3 des plus grands artistes africains au monde 🇳🇬 #music #BurnaBoy #wizkid #davido https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T13:20:44.000Z",
+        "text": "Il y en a ici qui est très sexiste https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:11:20.000Z",
+        "text": "S’il sort un nouvel Album , il va casser les sites de streaming tellement c’est l’héritier de Michael Jackson https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:13:37.000Z",
+        "text": "Objectif voici les 3 meilleurs séries comédies Afro de l’histoire, tellement de souvenirs https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:23:53.000Z",
+        "text": "Gros #Debat : Qui d’Eminem ou Tupac est le meilleur rappeur de l’histoire 🇺🇸 #rap ?? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T14:27:42.000Z",
+        "text": "Eminem pour moi , ce qui me fait dire ça c’est que Tupac est mort trop jeune pour être le meilleur de l’histoire https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T15:21:54.000Z",
+        "text": "Suis renoi congolais mais j’apprécie les arabes qui sont gentils surtout les femmes maghrébines https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T16:17:36.000Z",
+        "text": "Toutes les meufs ont grandis avec ça https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:31:30.000Z",
+        "text": "J’ai la sextape de Shay les gars !!"
+      },
+      {
+        "created_at": "2024-03-17T17:32:40.000Z",
+        "text": "Alors les mecs , belle sans cul ou moche avec un gros cul ??"
+      },
+      {
+        "created_at": "2024-03-17T17:35:03.000Z",
+        "text": "Pitin!!! Enlève cet habit rouge 😭 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:36:48.000Z",
+        "text": "Et il y a encore des mecs qui compare Salah à Etoo mdrrr , l’égyptien est le meilleur joueur africain de l’histoire https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:42:59.000Z",
+        "text": "Matuidi qui n’avait même une photo de sa femme, a dû taper sur Google mais au lieu de rogner lui aussi ptdrrr 🤣🤣 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:44:17.000Z",
+        "text": "L’effet Gasset a disparu, on va plus voir une victoire de l’OM pour un bout de temps https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T17:46:32.000Z",
+        "text": "Moi je m’en fou si tu es rouge , noire , blanche , jaune … tant que t’as les grosses fesses je te prendrais"
+      },
+      {
+        "created_at": "2024-03-17T19:55:15.000Z",
+        "text": "Objectivement c’est les deux meilleurs acteurs de l’histoire 🇺🇸 #Hollywood https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T20:10:00.000Z",
+        "text": "Qui sait peut être que je vais finir avec une de mes mutus , boza wapi ??"
+      },
+      {
+        "created_at": "2024-03-17T20:22:26.000Z",
+        "text": "Désolé c’est plus une 10 car j’aime beaucoup mangé https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T20:23:24.000Z",
+        "text": "Pipelette c’est celle son nul à la pipe ou .. ?? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T20:56:55.000Z",
+        "text": "Pour Moi c’est le meilleur duo tout #mangas confondus, c’est quoi le votre ? https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T20:57:56.000Z",
+        "text": "C’est trop le meilleur joueur du monde , ne le comparez pas à Messi svp il est au dessus https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T21:01:08.000Z",
+        "text": "Mbappé est déjà une légende du foot , dans 3 ans il sera une très grande légende"
+      },
+      {
+        "created_at": "2024-03-17T21:14:47.000Z",
+        "text": "J’aimais tellement cette meuf quand j’étais gamin , elle est toujours autant magnifique 🫶🏼 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T21:19:53.000Z",
+        "text": "Genre y’a des mecs qui le compare à Haaland qui fait que courir sur le terrain ??? C’est le débat le plus forcé de l’histoire https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T21:28:21.000Z",
+        "text": "Le #RealMadrid t’attend, nous aussi #MHSCPSG 🤍🤍 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T21:38:35.000Z",
+        "text": "Sérieusement on a tous grandit avec eux 🥺 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T21:42:10.000Z",
+        "text": "Les barcelonais en ce moment, force à vous ça dure depuis 2016 cette histoire🤣 https://t.co/twitter_link https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T21:43:24.000Z",
+        "text": "Mbappé qui démontre pour 100000 fois qu’il est le meilleur joueur du monde #MHSCPSG"
+      },
+      {
+        "created_at": "2024-03-17T23:00:41.000Z",
+        "text": "Bonne #nuit à mes 3 abonnés fidèles https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T23:31:43.000Z",
+        "text": "Il a dépassé Federer ensuite Nadal, pour moi #Djokovic est le plus grand joueur de #tennis de l’histoire 🐐🎾 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T23:48:46.000Z",
+        "text": "Que dire encore de plus si ce n’est que Carlos Alcaraz est le futur du tennis mondial des 15 prochaines années 🐐 https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T23:49:29.000Z",
+        "text": "Tellement la GOAT ❤️ https://t.co/twitter_link"
+      },
+      {
+        "created_at": "2024-03-17T23:51:22.000Z",
+        "text": "La femme qui a le plus beau cul en Afrique !??"
+      }
+    ]
+  },
+  {
+    "type": "FP",
+    "lang": "fr",
+    "dataset": 4,
+    "bot_score": 0.4253,
+    "threshold": 0.4,
+    "user": {
+      "id": "4d086b53-31d1-4463-aed9-2cc09f9e1613",
+      "username": "MyBetBoost",
+      "name": "Bet Boost",
+      "description": "🚀 Boostez vos paris avec BetBoost !\n📈 Partage en temps réel des cotes boostées pour Winamax, Unibet, Betclic, Parions Sport en Ligne, ZeBet et PMU.",
+      "location": "Alertes Discord 👉",
+      "tweet_count": 15,
+      "z_score": -0.4955
+    },
+    "posts": [
+      {
+        "created_at": "2024-03-16T07:16:13.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : T.Paul-D.Medvedev | D.Medvedev s'impose deux sets à zéro ? -&gt; Oui\n🚀 Cote : 1.78 -&gt; 2.05\n💰 Mise max : 25€\n📅 Date : 16/03/2024 22:50\n\n#ParionsSport #TPaulDMedvedev #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-16T08:06:13.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : Irlande-Ecosse | CB - B.Aki ou D. van der Merwe marque au moins un essai -&gt; Oui\n🚀 Cote : 1.7 -&gt; 2\n💰 Mise max : 25€\n📅 Date : 16/03/2024 17:45\n\n#ParionsSport #IrlandeEcosse #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-16T08:06:14.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : France-Angleterre | CB - L.Bielle-Biarrey ou N.Le Garrec marque au moins un essai -&gt; Oui\n🚀 Cote : 1.7 -&gt; 2\n💰 Mise max : 25€\n📅 Date : 16/03/2024 21:00\n\n#ParionsSport #FranceAngleterre #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-16T09:46:13.000Z",
+        "text": "🔥 Boost Unibet\n\n🏟️ Pari : France - Angleterre | France mène à la mi-temps et gagne le match\n🚀 Cote : 1.72 -&gt; 2\n💰 Mise max : 50€\n📅 Date : 16/03/2024 21:00\n\n#Unibet #FranceAngleterre #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-16T15:56:13.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : Irlande-Ecosse | CB - B.Aki ou D.van der Merwe marque au moins un essai -&gt; Oui\n🚀 Cote : 1.7 -&gt; 2\n💰 Mise max : 25€\n📅 Date : 16/03/2024 17:45\n\n#ParionsSport #IrlandeEcosse #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-16T19:50:13.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : France-Angleterre | CB Flash - Damian Penaud ou Emmanuel Meafou marque au moins 1 essai ? -&gt; Oui\n🚀 Cote : 1.6 -&gt; 2.1\n💰 Mise max : 10€\n📅 Date : 16/03/2024 21:00\n\n#ParionsSport #FranceAngleterre #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-16T21:48:13.000Z",
+        "text": "🔥 Boost Winamax\n\n🏟️ Pari : : NHL | Vancouver Canucks et Edmonton Oilers marquent chacun au moins 3 buts (respectivement contre Washington Capitals et Colorado Avalanche) (hors prol. et TAB)\n🚀 Cote : 1.77 -&gt; 2\n💰 Mise max : 50€\n📅 Date : 17/03/2024 03:10\n\n#W..."
+      },
+      {
+        "created_at": "2024-03-17T03:56:13.000Z",
+        "text": "🔥 Boost Winamax\n\n🏟️ Pari : : Ulsan - Incheon United | Les deux équipes marquent lors du match\n🚀 Cote : 1.78 -&gt; 2\n💰 Mise max : 50€\n📅 Date : 17/03/2024 08:30\n\n#Winamax #UlsanIncheonUnited #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T08:36:13.000Z",
+        "text": "🔥 Boost Winamax\n\n🏟️ Pari : : Monaco - Lorient | Monaco gagne ou fait match nul et les deux équipes marquent\n🚀 Cote : 1.88 -&gt; 2.1\n💰 Mise max : 50€\n📅 Date : 17/03/2024 15:00\n\n#Winamax #MonacoLorient #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T08:36:14.000Z",
+        "text": "🔥 Boost Winamax\n\n🏟️ Pari : : Rennes - Marseille | P. Aubameyang ou A. Gouiri buteur\n🚀 Cote : 1.8 -&gt; 2\n💰 Mise max : 50€\n📅 Date : 17/03/2024 17:05\n\n#Winamax #RennesMarseille #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T10:06:13.000Z",
+        "text": "🔥 Boost Unibet\n\n🏟️ Pari : Rennes - Marseille | Une équipe gagne et plus de 2,5 buts dans le match\n🚀 Cote : 1.95 -&gt; 2.2\n💰 Mise max : 50€\n📅 Date : 17/03/2024 17:05\n\n#Unibet #RennesMarseille #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T12:16:14.000Z",
+        "text": "🔥 Boost Unibet\n\n🏟️ Pari : Mass Start 12.5km Femmes - Canmore | Julia Simon, Lou Jeanmonnot et Justine Braisaz-Bouchet terminent dans le Top 6\n🚀 Cote : 1.78 -&gt; 2.2\n💰 Mise max : 50€\n📅 Date : 17/03/2024 18:10\n\n#Unibet #MassStart125kmFemmesCanmore #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T15:46:14.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : Rennes-Marseille | CB FLASH : Marseille gagne ou fait match nul et plus de 1,5 buts dans le match ? -&gt; Oui\n🚀 Cote : 1.94 -&gt; 2.5\n💰 Mise max : 10€\n📅 Date : 17/03/2024 17:05\n\n#ParionsSport #RennesMarseille #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T16:01:14.000Z",
+        "text": "🔥 Boost Unibet\n\n🏟️ Pari : Dallas Mavericks - Denver Nuggets | Luka Doncic ou Nikola Jokic réalise un triple-double | Prolongations incluses\n🚀 Cote : 1.75 -&gt; 2\n💰 Mise max : 50€\n📅 Date : 17/03/2024 20:40\n\n#Unibet #DallasMavericksDenverNuggets #TeamParieur"
+      },
+      {
+        "created_at": "2024-03-17T19:34:13.000Z",
+        "text": "🔥 Boost Parions Sport\n\n🏟️ Pari : Montpellier-Paris SG | CB FLASH : Paris marque dans les 2 mi-temps ? -&gt; Oui\n🚀 Cote : 1.8 -&gt; 2.35\n💰 Mise max : 10€\n📅 Date : 17/03/2024 20:45\n\n#ParionsSport #MontpellierParisSG #TeamParieur"
+      }
+    ]
+  }
+]

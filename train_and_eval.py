@@ -26,11 +26,11 @@ def dataset_paths(idx: int):
     return ds, bots
 
 
-EN_INDICES = [1, 3, 5]
-FR_INDICES = [2, 4, 6]
+EN_INDICES = [1, 3, 5, 30]
+FR_INDICES = [2, 4, 6, 31]
 
 
-def run_cv(lang_indices: list[int], lang: str):
+def run_cv(lang_indices: list[int], lang: str, use_xgb: bool = False):
     print(f"\n{'='*55}")
     print(f"  Leave-one-out CV  —  {lang.upper()}")
     print(f"{'='*55}")
@@ -57,7 +57,7 @@ def run_cv(lang_indices: list[int], lang: str):
         all_val_users = {u["id"] for u in val_users}
 
         # Train
-        detector = BotDetector()
+        detector = BotDetector(use_xgb=use_xgb)
         detector.fit(train_data)
 
         # Score sweep on validation set
@@ -86,7 +86,7 @@ def run_cv(lang_indices: list[int], lang: str):
     return avg_thresh
 
 
-def print_feature_importances(lang_indices: list[int], lang: str, threshold: float):
+def print_feature_importances(lang_indices: list[int], lang: str, threshold: float, use_xgb: bool = False):
     print(f"\n  Feature importances ({lang.upper()}, trained on all {lang} data):")
     all_data = []
     for idx in lang_indices:
@@ -95,7 +95,7 @@ def print_feature_importances(lang_indices: list[int], lang: str, threshold: flo
         bot_ids = load_bots(bots_path)
         all_data.append((users, posts, bot_ids))
 
-    detector = BotDetector()
+    detector = BotDetector(use_xgb=use_xgb)
     detector.fit(all_data)
     detector.threshold = threshold
     for feat, imp in detector.feature_importances()[:10]:
@@ -103,11 +103,11 @@ def print_feature_importances(lang_indices: list[int], lang: str, threshold: flo
 
 
 def main():
-    en_thresh = run_cv(EN_INDICES, "en")
-    fr_thresh = run_cv(FR_INDICES, "fr")
+    en_thresh = run_cv(EN_INDICES, "en", use_xgb=True)
+    fr_thresh = run_cv(FR_INDICES, "fr", use_xgb=False)
 
-    print_feature_importances(EN_INDICES, "en", en_thresh)
-    print_feature_importances(FR_INDICES, "fr", fr_thresh)
+    print_feature_importances(EN_INDICES, "en", en_thresh, use_xgb=True)
+    print_feature_importances(FR_INDICES, "fr", fr_thresh, use_xgb=False)
 
     print(f"\nRecommended thresholds: EN={en_thresh:.2f}  FR={fr_thresh:.2f}")
 
