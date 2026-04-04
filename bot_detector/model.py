@@ -32,10 +32,17 @@ _INJECTED = [
 
 
 def load_dataset(path: str):
-    """Return (metadata, users_list, posts_list)."""
+    """Return (metadata, users_list, posts_list).
+    metadata includes top-level fields (lang, id) merged with the nested metadata dict.
+    """
     with open(path) as f:
         data = json.load(f)
-    return data["metadata"], data["users"], data["posts"]
+    meta = dict(data.get("metadata", {}))
+    # Lift top-level fields (lang, id) into meta so callers can do meta.get("lang")
+    for key in ("lang", "id"):
+        if key in data:
+            meta[key] = data[key]
+    return meta, data["users"], data["posts"]
 
 
 def load_bots(path: str):
